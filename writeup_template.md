@@ -23,7 +23,7 @@ I would also like to include the images evolving during the process of finding l
 
  2. Fitting lines
  
-![Application of pipeline2](https://github.com/BrunoEduardoCSantos/Finding-lane-lines-on-the-road/tree/master/test_output_images/messigraysolidWhiteCurve.jpg.png)
+![Application of pipeline2](https://github.com/BrunoEduardoCSantos/Finding-lane-lines-on-the-road/blob/master/test_output_images/messigraysolidWhiteCurve.jpg.png)
 
 
 One potential shortcoming would be what would happen when showing horizontal lanes line in the image. The current drawline function can't handle this case.
