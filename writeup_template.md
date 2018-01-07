@@ -20,8 +20,11 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 I would also like to include the images evolving during the process of finding lanes in the image:
 
 1. Pipeline
+
 ![Application of pipeline](https://github.com/BrunoEduardoCSantos/Finding-lane-lines-on-the-road/blob/master/test_images_lines/houghlinessolidWhiteCurve.jpg.jpg)
+
  2. Fitting lines
+ 
 ![Application of pipeline2](https://github.com/BrunoEduardoCSantos/Finding-lane-lines-on-the-road/blob/master/test_images_lines/messigraysolidWhiteCurve.jpg.png)
 
 
