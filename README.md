@@ -8,7 +8,7 @@ In this project several computer vision techniques are applied to detect lanes o
 
 ## Usage
 
-**Step 1:** Set up Anaconda with OpenCV
+**Step 1:** Set up [Anaconda](https://docs.anaconda.com/anaconda/install/) with OpenCV
 
 **Step 2:** Open the P1.ipynb in a Jupyter Notebook (Python 3.5)
 
