@@ -4,8 +4,6 @@ In this project several computer vision techniques are applied to detect lanes o
 
 ## Reflection
 
-### Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
-
 My pipeline consisted of 5 steps as follows:
 1. Apply gray scale to the initial image
 2. Use Gaussian blur technique to distinct the white lanes and input to canny edge method
